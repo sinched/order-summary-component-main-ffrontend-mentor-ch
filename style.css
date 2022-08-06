@@ -27,6 +27,8 @@ root {
 }
 
 body {
+    max-width: 1440px;
+    max-height: 900px;
     font-size: var(--FS);
     font-family: 'Red Hat Display', sans-serif;
     text-align: center;
@@ -59,7 +61,7 @@ body {
 
 .order h1 {
     font-weight: 900;
-    margin-top: 30px;
+    margin-top: 3 0px;
     font-size: 1.7rem;
 }
 
