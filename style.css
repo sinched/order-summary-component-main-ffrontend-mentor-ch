@@ -159,6 +159,20 @@ body {
     color: hsl(224, 23%, 55%);
 }
 
+@media screen and (max-width: 600px) {
+    body {
+        /* min-width: 375px; */
+    }
+
+    .card {
+        width: 375px;
+    }
+
+    .card .img {
+        width: 375px;
+    }
+}
+
 
 
 
