@@ -160,9 +160,9 @@ body {
 }
 
 @media screen and (max-width: 600px) {
-    body {
-        /* min-width: 375px; */
-    }
+    /* body {
+        min-width: 375px;
+    } */
 
     .card {
         width: 375px;
